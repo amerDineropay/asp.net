@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dineropay_asp", "dineropay_asp\dineropay_asp.csproj", "{4A35F806-3B6E-4EC2-8598-5D420F35EB3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "showCase", "showCase\showCase.csproj", "{FEAE4AF7-41F4-42C1-942D-12EFC2BD48F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5F879C84-C003-4617-AF2E-61771E50521D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A35F806-3B6E-4EC2-8598-5D420F35EB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A35F806-3B6E-4EC2-8598-5D420F35EB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A35F806-3B6E-4EC2-8598-5D420F35EB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A35F806-3B6E-4EC2-8598-5D420F35EB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEAE4AF7-41F4-42C1-942D-12EFC2BD48F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAE4AF7-41F4-42C1-942D-12EFC2BD48F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAE4AF7-41F4-42C1-942D-12EFC2BD48F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAE4AF7-41F4-42C1-942D-12EFC2BD48F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A6AC73-ECBA-4C9B-9293-6D89CF69E9EF}
+	EndGlobalSection
+EndGlobal
